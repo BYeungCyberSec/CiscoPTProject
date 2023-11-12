@@ -1,3 +1,5 @@
+[Order of Guide is: ReadMe -> SwitchCLI -> RouterConfig -> NATPATConfig](https://github.com/BYeungCyberSec/CiscoPTProject/blob/main/README.md)
+
 <h1>Switch Configuration</h1>
 
 We can access the switch's GUI by double clicking on them in the topology, and we can configure them through the command-line interface (CLI)
