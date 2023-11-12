@@ -1,4 +1,4 @@
-[Start from here and navigate through documents](https://github.com/BYeungCyberSec/CiscoPTProject/blob/main/README.md)
+[Order of Guide is: ReadMe -> SwitchCLI -> RouterConfig -> NATPATConfig](https://github.com/BYeungCyberSec/CiscoPTProject/blob/main/README.md)
 
 <h1>NAT and PAT Configuration</h1>
 
