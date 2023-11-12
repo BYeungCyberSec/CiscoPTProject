@@ -1,3 +1,5 @@
+<h1>Switch Configuration</h1>
+
 We can access the switch's GUI by double clicking on them in the topology, and we can configure them through the command-line interface (CLI)
 
 ![Switch GUI](https://github.com/BYeungCyberSec/CiscoPTProject/assets/150320582/9f311644-b6fd-4ae4-be8d-215c369648ad)
