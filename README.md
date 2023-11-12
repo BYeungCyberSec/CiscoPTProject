@@ -40,3 +40,24 @@ Gateway: 172.17.180.193
 ```
 
 ![Management PC Config 2](https://github.com/BYeungCyberSec/CiscoPTProject/assets/150320582/73788de2-a04e-4b29-b6c7-796d2815a8c2)
+
+We can repeat the same steps for the remaining PC and Servers.
+
+![Labelled PC](https://github.com/BYeungCyberSec/CiscoPTProject/assets/150320582/53820514-132b-4600-8d72-b8e9c54318e2)
+
+```
+Staff PC:
+IPv4: 172.17.180.3  
+Subnet Mask: 255.255.255.128
+Gateway: 172.17.180.1
+
+Server:
+IPv4: 172.17.180.130
+Subnet Mask: 255.255.255.192
+Gateway: 172.17.180.129
+
+User Host:
+IPv4: 172.17.186.2
+Subnet Mask: 255.255.255.0
+Gateway: 172.17.186.1
+```
