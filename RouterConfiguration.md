@@ -132,4 +132,6 @@ network 172.17.180.0 0.0.0.127 area 0
 
 When OSPF is configured properly on the Main network Routers (Main+West+East), you can use ```sh ip route``` to identify the new advertised routes through OSPF with an "O" next to the route.
 
+Our last part of this project is NAT and PAT assignment, which is a very short and quick configuration [in this section](https://github.com/BYeungCyberSec/CiscoPTProject/blob/main/NATPATConfig.md)
+
 
