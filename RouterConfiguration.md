@@ -1,3 +1,5 @@
+[Order of Guide is: ReadMe -> SwitchCLI -> RouterConfig -> NATPATConfig](https://github.com/BYeungCyberSec/CiscoPTProject/blob/main/README.md)
+
 <h1>Router Configuration</h1>
 
 The routers will have slightly more complex configurations, but they are largely similar in concept as all we're are doing is encapsulating those VLAN's we just assigned between the switch and PC's, encapsulating them and giving them an IP address.
