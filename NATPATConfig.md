@@ -1,3 +1,5 @@
+[Start from here and navigate through documents](https://github.com/BYeungCyberSec/CiscoPTProject/blob/main/README.md)
+
 <h1>NAT and PAT Configuration</h1>
 
 The project calls for static NAT configuration in the Branch network and PAT for the Main network.
