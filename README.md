@@ -61,3 +61,4 @@ IPv4: 172.17.186.2
 Subnet Mask: 255.255.255.0
 Gateway: 172.17.186.1
 ```
+[Now we can move onto configuring the Switches](https://github.com/BYeungCyberSec/CiscoPTProject/blob/main/SwitchCLI)
